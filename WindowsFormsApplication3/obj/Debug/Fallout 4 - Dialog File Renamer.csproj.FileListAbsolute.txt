@@ -1,0 +1,11 @@
+C:\Users\CJWin7Main\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Fallout 4 - Dialog File Renamer.exe.config
+C:\Users\CJWin7Main\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Fallout 4 - Dialog File Renamer.exe
+C:\Users\CJWin7Main\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Fallout 4 - Dialog File Renamer.pdb
+C:\Users\CJWin7Main\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\SpreadsheetLight.dll
+C:\Users\CJWin7Main\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\SpreadsheetLight.xml
+C:\Users\CJWin7Main\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Fallout 4 - Dialog File Renamer.csprojResolveAssemblyReference.cache
+C:\Users\CJWin7Main\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.formMainWindow.resources
+C:\Users\CJWin7Main\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Fallout4DialogFileRenamer.Properties.Resources.resources
+C:\Users\CJWin7Main\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Fallout 4 - Dialog File Renamer.csproj.GenerateResource.Cache
+C:\Users\CJWin7Main\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Fallout 4 - Dialog File Renamer.exe
+C:\Users\CJWin7Main\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Fallout 4 - Dialog File Renamer.pdb

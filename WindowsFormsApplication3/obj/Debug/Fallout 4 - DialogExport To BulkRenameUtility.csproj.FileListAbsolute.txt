@@ -1,0 +1,11 @@
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Fallout 4 - DialogExport To BulkRenameUtility.exe.config
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Fallout 4 - DialogExport To BulkRenameUtility.exe
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Fallout 4 - DialogExport To BulkRenameUtility.pdb
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Fallout 4 - DialogExport To BulkRenameUtility.csprojResolveAssemblyReference.cache
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.formMainWindow.resources
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Fallout4DialogExportToBulkRenameUtility.Properties.Resources.resources
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Fallout 4 - DialogExport To BulkRenameUtility.csproj.GenerateResource.Cache
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Fallout 4 - DialogExport To BulkRenameUtility.exe
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Fallout 4 - DialogExport To BulkRenameUtility.pdb
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\SpreadsheetLight.dll
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\SpreadsheetLight.xml
